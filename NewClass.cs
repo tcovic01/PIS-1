@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class NewClass
     {
+        Console.WriteLine("Druga promjena");
     }
 }
